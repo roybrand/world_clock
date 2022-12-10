@@ -1,0 +1,2 @@
+C:\Users\roybr\source\repos\world_clock\world_clock\obj\Debug\world_clock.esproj.SuggestedBindingRedirects.cache
+C:\Users\roybr\source\repos\world_clock\world_clock\obj\Debug\world_clock.esproj.CoreCompileInputs.cache

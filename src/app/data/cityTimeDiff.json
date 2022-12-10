@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "jerusalem",
+    "timeDiff": 0
+   
+  },
+  {
+    "id": 2,
+    "name": "tokyo",
+    "timeDiff": 7
+  },
+  {
+    "id": 3,
+    "name": "london",
+    "timeDiff": -2
+  },
+  {
+    "id": 4,
+    "name": "new york",
+    "timeDiff": -7
+  }
+  
+]  
